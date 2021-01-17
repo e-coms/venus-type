@@ -15,10 +15,10 @@
     }
   ],
   "require": {
-    "php": "^7.1|^8.0",
-    "consistence/consistence": "^1.0 || ^2.0",
-    "nette/utils": "^3.0 || ^2.4",
-    "nette/http": "^3.0 || ^2.4",
+    "php": "^8.0",
+    "consistence/consistence": "^2.0",
+    "nette/utils": "^3.0",
+    "nette/http": "^3.0",
     "jschaedl/iban-validation": "^1.0"
   },
   "require-dev": {
