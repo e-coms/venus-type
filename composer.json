@@ -16,16 +16,13 @@
   ],
   "require": {
     "php": "^8.0",
-    "consistence/consistence": "^2.0",
     "nette/utils": "^3.0",
-    "nette/http": "^3.0",
-    "jschaedl/iban-validation": "^1.0"
+    "nette/http": "^3.0"
   },
   "require-dev": {
     "nette/tester": "^2.3.0",
     "slevomat/coding-standard": "^4.6.0",
-    "phpstan/phpstan-nette": "^0.12.8",
-    "consistence/coding-standard": "^3.4.0"
+    "phpstan/phpstan-nette": "^0.12.8"
   },
   "autoload": {
     "psr-4": {
